@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/assets/icons/icon_510x510.png",
+      "sizes": "510x510",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_375x375.png",
+      "sizes": "375x375",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_250x250.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_130x130.png",
+      "sizes": "130x130",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_85x85.png",
+      "sizes": "85x85",
+      "type": "image/png"
+    }
+  ],
+  "name": "jate",
+  "short_name": "jate",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Just Another Text Editor",
+  "background_color": "#255ca3",
+  "time_color": "#255ca3"
+}
