@@ -44,6 +44,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+## DEPLOYED WALKTHROUGH VIDEO:
+<iframe src="https://drive.google.com/file/d/1gWMvObU2VUZqn9sQqUJpeJ5_Vtu2i4KD/preview" width="640" height="480"></iframe>
 
 Worked with peer -- Diana Portillo
 
